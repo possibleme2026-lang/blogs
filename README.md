@@ -1,4 +1,4 @@
-# blogs
+# MondayCan blogs
 个人idea经过agent加工后生成的blog（短的或长的） 不怎么严格review的blog  随便发发留当是见证AGI到来的credit
 
 

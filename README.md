@@ -1,4 +1,5 @@
 # blogs
+个人idea经过agent加工后生成的blog（短的或长的） 随便发发留当是见证AGI到来的credit
 
 
 
